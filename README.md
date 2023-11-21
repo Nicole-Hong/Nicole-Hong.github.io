@@ -22,6 +22,9 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
   - [App GitHub](https://github.com/Nicole-Hong/culinary_curation_app)
   - [Deployed Web App](https://nicole-hong.github.io/culinary_curation_app/)
 
+* Flight Distance Calculations using MapReduce - November 2022
+  - [GitHub](https://github.com/Nicole-Hong/Flight_Distance_Calculation_with_MapReduce)
+
 * Blog on Generative AI Art - April 2022
   - [Medium Article](https://hnicole01.medium.com/generative-ai-art-understanding-beyond-the-ai-algorithm-4a8d081c2c3a)
 
