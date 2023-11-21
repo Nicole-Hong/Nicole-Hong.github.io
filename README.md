@@ -25,6 +25,8 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
 * Blog on Generative AI Art - April 2022
   - [Medium Article](https://hnicole01.medium.com/generative-ai-art-understanding-beyond-the-ai-algorithm-4a8d081c2c3a)
 
+* Various Projects from the Master's Degree Program in Management Analytics, Queen's University - 2020- 2021
+  - [GitHub](https://github.com/Nicole-Hong/GMMA-Projects)
 
 ## Presentations
 
@@ -34,8 +36,10 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
 
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/nicolehhong/)
-[GitHub](https://github.com/Nicole-Hong)
-[Twitter](https://twitter.com/CastleQueen007)
+
+* [LinkedIn](https://www.linkedin.com/in/nicolehhong/)
+* [GitHub](https://github.com/Nicole-Hong)
+* [Twitter](https://twitter.com/CastleQueen007)
+* [Mastodon](https://sigmoid.social/@nicolehong)
 
 
