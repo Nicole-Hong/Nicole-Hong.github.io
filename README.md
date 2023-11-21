@@ -14,7 +14,7 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
 - 🤔 I’m looking for help with making my README more visually appealing...
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love classical music and play the violin at orchestras
-- :rocket: Hobbies: Coding, Painting, Hiking, Swimming and Dancing
+- 🚀 Hobbies: Coding, Painting, Hiking, Swimming and Dancing
 
 ## Projects
 
@@ -22,14 +22,18 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
   - [App GitHub](https://github.com/Nicole-Hong/culinary_curation_app)
   - [Deployed Web App](https://nicole-hong.github.io/culinary_curation_app/)
 
+
 * Flight Distance Calculations using MapReduce - November 2022
   - [GitHub](https://github.com/Nicole-Hong/Flight_Distance_Calculation_with_MapReduce)
+
 
 * Blog on Generative AI Art - April 2022
   - [Medium Article](https://hnicole01.medium.com/generative-ai-art-understanding-beyond-the-ai-algorithm-4a8d081c2c3a)
 
+
 * Various Projects from Master's Degree Program in Management Analytics, Queen's University - 2020- 2021
   - [GitHub](https://github.com/Nicole-Hong/GMMA-Projects)
+
 
 ## Presentations
 
