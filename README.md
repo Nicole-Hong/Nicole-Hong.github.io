@@ -25,7 +25,7 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
 * Blog on Generative AI Art - April 2022
   - [Medium Article](https://hnicole01.medium.com/generative-ai-art-understanding-beyond-the-ai-algorithm-4a8d081c2c3a)
 
-* Various Projects from the Master's Degree Program in Management Analytics, Queen's University - 2020- 2021
+* Various Projects from Master's Degree Program in Management Analytics, Queen's University - 2020- 2021
   - [GitHub](https://github.com/Nicole-Hong/GMMA-Projects)
 
 ## Presentations
