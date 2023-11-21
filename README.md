@@ -30,9 +30,9 @@ I would also love the opportunity to collaborate any projects, Hackathon or othe
 
 ## Presentations
 
-* [Machine Learning for an Insightful Search Engine - Data Science Lightning Talks November 2022](https://www.youtube.com/watch?v=p30f7P6pbqc)
-* [Natural Language Processing - Disaster Tweets Kaggle Competition September 2022](https://www.youtube.com/watch?v=VubB8mmL64E)
-* [Customer Analytics at BigBasket, the India's largest online supermarket January 2022](https://www.youtube.com/watch?v=bnzHCwtDfqY)
+* [Machine Learning for an Insightful Search Engine - Data Science Lightning Talks - November 2022](https://www.youtube.com/watch?v=p30f7P6pbqc)
+* [Natural Language Processing - Disaster Tweets Kaggle Competition - September 2022](https://www.youtube.com/watch?v=VubB8mmL64E)
+* [Customer Analytics at BigBasket, the India's largest online supermarket - January 2022](https://www.youtube.com/watch?v=bnzHCwtDfqY)
 
 
 ## Contact
